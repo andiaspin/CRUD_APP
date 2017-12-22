@@ -1,0 +1,9 @@
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Disco\Disco\obj\x86\Debug\Disco.Form1.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Disco\Disco\obj\x86\Debug\Disco.Resources.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Disco\Disco\obj\x86\Debug\Disco.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Disco\Disco\bin\Debug\Disco.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Disco\Disco\bin\Debug\Disco.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Disco\Disco\bin\Debug\Disco.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Disco\Disco\obj\x86\Debug\Disco.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Disco\Disco\obj\x86\Debug\Disco.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Disco\Disco\obj\x86\Debug\Disco.pdb
